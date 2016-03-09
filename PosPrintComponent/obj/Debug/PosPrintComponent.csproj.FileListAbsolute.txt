@@ -1,0 +1,24 @@
+c:\users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.exe.config
+c:\users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.exe
+c:\users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.pdb
+c:\users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.exe
+c:\users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.pdb
+c:\users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\bin\Debug\ProductDictionary.xml
+C:\Users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\bin\Debug\ProductStrategy.xml
+C:\Users\endless\documents\visual studio 2013\Projects\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.csprojResolveAssemblyReference.cache
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.exe.config
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.exe
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.pdb
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\ProductDictionary.xml
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\ProductStrategy.xml
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.exe
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.pdb
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.csprojResolveAssemblyReference.cache
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.exe.config
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.exe
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.pdb
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\ProductDictionary.xml
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\ProductStrategy.xml
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.exe
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\bin\Debug\PosPrintComponent.pdb
+C:\Users\endless\Desktop\PosPrintComponent\PosPrintComponent\obj\Debug\PosPrintComponent.csprojResolveAssemblyReference.cache

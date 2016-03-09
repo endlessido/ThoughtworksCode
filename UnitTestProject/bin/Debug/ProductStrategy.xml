@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductStrategy>
+  <Gitfs>
+    <Gift>
+      <Over>2</Over>
+      <Give>1</Give>
+      <ISBNS>ITEM000001</ISBNS>
+    </Gift>
+  </Gitfs>
+  <Sales>
+    <Sale>
+      <Rate>0.95</Rate>
+      <ISBNS>ITEM000002</ISBNS>
+    </Sale>
+  </Sales>
+</ProductStrategy>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductCollection>
+  <Products>
+    <ProductBase>
+      <ISBN>ITEM000001</ISBN>
+      <Name>可口可乐</Name>
+      <Unit>瓶</Unit>
+      <UnitPrice>3</UnitPrice>
+    </ProductBase>
+    <ProductBase>
+      <ISBN>ITEM000002</ISBN>
+      <Name>羽毛球</Name>
+      <Unit>个</Unit>
+      <UnitPrice>1</UnitPrice>
+    </ProductBase>
+    <ProductBase>
+      <ISBN>ITEM000003</ISBN>
+      <Name>苹果</Name>
+      <Unit>斤</Unit>
+      <UnitPrice>5.5</UnitPrice>
+    </ProductBase>
+  </Products>
+</ProductCollection>

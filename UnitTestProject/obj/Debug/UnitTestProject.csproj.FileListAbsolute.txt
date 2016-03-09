@@ -1,0 +1,9 @@
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\bin\Debug\ProductDictionary.xml
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\bin\Debug\ProductStrategy.xml
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\bin\Debug\PosPrintComponent.exe
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\bin\Debug\PosPrintComponent.pdb
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\endless\Desktop\PosPrintComponent\UnitTestProject\obj\Debug\UnitTestProject.pdb

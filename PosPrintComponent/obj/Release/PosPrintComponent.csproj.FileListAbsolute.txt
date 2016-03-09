@@ -1,0 +1,8 @@
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Release\ProductDictionary.xml
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Release\ProductStrategy.xml
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Release\PosPrintComponent.exe.config
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Release\PosPrintComponent.exe
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\bin\Release\PosPrintComponent.pdb
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\obj\Release\PosPrintComponent.csprojResolveAssemblyReference.cache
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\obj\Release\PosPrintComponent.exe
+C:\Users\guih\Desktop\PosPrintComponent\PosPrintComponent\obj\Release\PosPrintComponent.pdb
